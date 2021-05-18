@@ -1,0 +1,41 @@
+<span id="a">siddarth@cybertrauma</span>:<span id="b">~</span><span id="c">$</span> sudo apt install <!-- kjsdfhkjdhsfkjdshfkj -->siddarth<br/>
+<span id="a">siddarth@cybertrauma</span>:<span id="b">~</span><span id="c">$</span> man <!-- kjsdfhkjdhsfkjdshfkj -->siddarth<br/>
+<strong>NAME</strong>
+<div class="about-indented">Siddarth</div>
+<strong>SYNOPSIS</strong>
+<div class="about-indented"><strong>siddarth</strong> [OPTION]... [FILE]...</div>
+<strong>DESCRIPTION</strong>
+<div class="about-indented"<strong>Siddarth</strong> is a CLI tool/game from the early 2000's available for
+currently works well with debian based systems                     
+<strong>Siddarth</strong> works well with VS Code, it also works with other edit
+optimized to work with VS Code.
+Although <strong>Siddarth</strong> is device-independent best results are achieved on
+Thinkpads.
+<strong>Siddarth</strong> can also be used outdoor to explore other countries</div>
+<strong>-b</strong>, <strong>--bash</strong>
+<div class="about-indented">read or write Bash scripts</div>
+<strong>-c</strong>, <strong>--coffee</strong>
+<div class="about-indented">activates Coffee mode: every task gets executed 3 times faster
+when <strong>Siddarth</strong> gets at least 1 big cup of Coffee as input
+(execution time can be further improved with the <strong>pizza</strong> or
+<strong>chocolate</strong> hack.)</div>
+<strong>-C/C++</strong>
+<div class="about-indented">read or write C/C++ code</div>
+<strong>-CSS/HTML-</strong>
+<div class="about-indented">use this option <strong>only in emergencies</strong>
+<strong>Siddarth</strong> is not suitable for web development 
+you'll get results but most likely not the ones you expected</div>
+<strong>-s,--swift</strong>
+<div class="about-indented">read or write swift code
+use this option <strong>only in emergencies</strong>
+This section of the tool is currently under development.</div>
+<strong>-p</strong>, <strong>--python</strong>
+<div class="about-indented">read or write Python code</div>
+<strong>-3d</strong>
+<div class="about-indented">activate 3D-printing capability
+(Note: execution of code with <strong>Siddarth</strong> is still buggy.
+       In some cases it doesn't work at all, in other cases <strong>Siddarth</strong>
+       just takes forever to finish execution)</div>
+<strong>BUGS</strong>
+<div class="about-indented">plenty</div>
+<span id="a">siddarth@cybertrauma</span>:<span id="b">~</span><span id="c">$</span>
